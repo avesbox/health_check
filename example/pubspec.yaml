@@ -1,0 +1,12 @@
+name: serinus_health_check
+description: "A Serinus Plugin to check the status of the application"
+version: 1.0.0
+publish_to: 'none'
+
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  serinus: ^0.4.1
+  
